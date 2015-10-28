@@ -20,10 +20,10 @@ This dataset was created by performing an outer join of Cell Towers and High Sch
 
 Process Documentation
 
-License
+                                          License
 The dataset created for INFM600 class is distributed under a Creative Commons Attribution 4.0 International Public License (see http://creativecommons.org/licenses/by/4.0/ for details)
 
-References
+                                          References
 Sanganal, Akshay. (2015). Wifi_School [Data Set].
 Available at https://github.com/akshaysanganal/INFM600
 
